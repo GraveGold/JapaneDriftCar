@@ -71,6 +71,8 @@ html {
   
   body  {
     background-image: url(RS.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .container {
     width: 100%;
